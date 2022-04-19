@@ -31,6 +31,6 @@ jobs:
       uses: gradle/gradle-build-action@v2
 
     - name: Execute Gradle test
-      run: ./gradlew test
+      run: gradle test
 #       with:
 #         arguments: test
