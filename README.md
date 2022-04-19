@@ -1,3 +1,5 @@
+[![Run Gradle test On PRs and Pushes](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml/badge.svg)](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml)
+
 # Autograding Example: Java
 This example project is written in Java, and tested with Gradle/JUnit.
 
