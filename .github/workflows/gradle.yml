@@ -27,10 +27,10 @@ jobs:
         cache: gradle
     - run: java --version
     
-#     - name: Setup Gradle
-#       uses: gradle/gradle-build-action@v2
+    - name: Setup Gradle
+      uses: gradle/gradle-build-action@v2
 
-#     - name: Execute Gradle test
-#     - run: ./gradlew test
+    - name: Execute Gradle test
+    - run: ./gradlew test
 #       with:
 #         arguments: test
