@@ -1,6 +1,4 @@
-[![test](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml/badge.svg)](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml)
-
-[![自動採点](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml/badge.svg?branch=main&event=push)](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml)
+[![自動採点](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml/badge.svg)](https://github.com/i5201-java-base/autograding-example-java/actions/workflows/gradle.yml)
 # Autograding Example: Java
 This example project is written in Java, and tested with Gradle/JUnit.
 
