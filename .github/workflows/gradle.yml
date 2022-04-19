@@ -28,7 +28,7 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
-        run: java --version
+    - run: java --version
 #     - name: Test with Gradle
 #       uses: gradle/gradle-build-action@v3
 #       with:
